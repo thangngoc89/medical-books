@@ -6,14 +6,28 @@
   display: block;
 }
 
+/* Adjust header -- Make it smaller */
+.site-header .wrap {
+    padding: 40px 0 10px 0;
+}
+
+.site-header .widget-area {
+  padding: 0;
+}
+
+.top-widget {
+  padding: 0;
+}
+
 /* Newest Books*/
-.widget_recent_entries {
+.sidebar-primary .widget {
   background: #fff;
 	color: #111;
 	padding: 40px;
 	margin-bottom: 40px;
 	border-radius: 3px;
 }
+
 .share-before:after, .share-after:after {
   display: inline;
 }
@@ -141,4 +155,28 @@ li.toggle-search.active a:before{
 /* Simple social icon */
 .simple-social-icons {
   float: right;
+}
+
+/* Subscribe box */
+.sidebar-primary .enews-widget {
+  background-color: #f7595a;
+  color: #fff;
+}
+.sidebar-primary .enews-widget h4 {
+  color: #fff;
+}
+.sidebar-primary .enews-widget input {
+	width: 69%;
+}
+
+.sidebar-primary .enews-widget input[type="submit"] {
+	width: 29%;
+  padding: 17px 4px;
+  color: #f7595a;
+  font-weight: 700;
+  background-color: #fff;
+}
+.sidebar-primary .enews-widget input[type="submit"]:hover {
+  color: #fff;
+  background-color: #96595A;
 }
