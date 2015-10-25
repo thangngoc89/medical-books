@@ -1,3 +1,11 @@
+/* Initial */
+.hide {
+  display: none;
+}
+.active{
+  display: block;
+}
+
 /* Newest Books*/
 .widget_recent_entries {
   background: #fff;
@@ -84,4 +92,53 @@
 		float: none;
 	}
 
+}
+
+/* Search */
+/*
+toggle Search
+---------------------------------------------------------------------------------------------------- */
+
+.hide { display: none;}
+
+li.toggle-search a,
+.site-header.dark li.toggle-search a{
+  font-size: 0;
+  padding: 0;
+  position: relative;
+  width: 40px;
+}
+
+li.toggle-search a:before{
+  content: "\f179";
+  display: block;
+  font-family: "Dashicons";
+  font-size: 26px;
+  left: 10px;
+  position: absolute;
+  top: -16px;
+  vertical-align: middle;
+  width: 33px;
+}
+
+li.toggle-search.active a:before{
+  content: "\f335";
+}
+
+.search-wrap {
+  clear: both;
+  margin: 0 5px 30px 5px;
+  padding: 0 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.search-wrap .search-form input[type="search"]{
+  padding: 10px 20px 8px;
+  /*border-radius: 5px;*/
+}
+
+/* Simple social icon */
+.simple-social-icons {
+  float: right;
 }
