@@ -1,6 +1,6 @@
 /* Newest Books*/
 .widget_recent_entries {
-  background: #a1d1db;
+  background: #fff;
 	color: #111;
 	padding: 40px;
 	margin-bottom: 40px;
@@ -18,6 +18,11 @@
 	margin: 0;
 	padding: 0;
 	text-align: right;
+}
+
+.post-photo {
+  height: 300px;
+  width: 100%;
 }
 
 /* books CPT archive page */
