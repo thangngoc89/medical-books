@@ -107,7 +107,7 @@
 						<p class="expl">
 							This XML Sitemap contains <xsl:value-of select="count(sitemap:urlset/sitemap:url)"/> URLs.
 						</p>
-						<p class="expl"><a href="http://khoanguyen.dev/sitemap_index.xml">&#8593; Sitemap Index</a></p>
+						<p class="expl"><a href="http://books.khoanguyen.me/sitemap_index.xml">&#8593; Sitemap Index</a></p>
 						<table id="sitemap" cellpadding="3">
 							<thead>
 								<tr>
@@ -150,7 +150,7 @@
 					</xsl:if>
 				</div>
 				<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-				<script type="text/javascript" src="http://khoanguyen.dev/wp-content/plugins/wordpress-seo/js/jquery.tablesorter.min.js"></script>
+				<script type="text/javascript" src="http://books.khoanguyen.me/wp-content/plugins/wordpress-seo/js/jquery.tablesorter.min.js"></script>
 				<script	type="text/javascript"><![CDATA[
 					$(document).ready(function() {
 				        $("#sitemap").tablesorter( { widgets: ['zebra'] } );

@@ -1,118 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//khoanguyen.dev/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//books.khoanguyen.me/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://khoanguyen.dev/books/</loc>
+		<loc>http://books.khoanguyen.me/books/</loc>
 		<lastmod>2015-10-26T01:22:29+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/principles-and-techniques-of-biochemistry-and-molcular-biology-7th-edition-2/</loc>
+		<loc>http://books.khoanguyen.me/books/principles-and-techniques-of-biochemistry-and-molcular-biology-7th-edition-2/</loc>
 		<lastmod>2015-10-25T19:19:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/principles-and-techniques-of-biochemistry-and-molecular-biology-7th-edition.jpeg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/principles-and-techniques-of-biochemistry-and-molecular-biology-7th-edition.jpeg</image:loc>
 			<image:caption><![CDATA[Principles and Techniques of Biochemistry and Molcular Biology 7th Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/dental-terminology-3rd-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/dental-terminology-3rd-edition/</loc>
 		<lastmod>2015-10-26T00:57:59+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/dental-terminology.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/dental-terminology.jpg</image:loc>
 			<image:caption><![CDATA[Dental Terminology 3rd edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/wheelers-dental-anatomy-physiology-and-occlusion-9th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/wheelers-dental-anatomy-physiology-and-occlusion-9th-edition/</loc>
 		<lastmod>2015-10-25T19:18:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/wheeler-dental-anatomy.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/wheeler-dental-anatomy.jpg</image:loc>
 			<image:caption><![CDATA[Wheeler]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/clinical-periodontology-and-implant-dentistry-5th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/clinical-periodontology-and-implant-dentistry-5th-edition/</loc>
 		<lastmod>2015-10-25T23:54:13+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/Clinical-Periodontology-and-Implant-Dentistry.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/Clinical-Periodontology-and-Implant-Dentistry.jpg</image:loc>
 			<image:caption><![CDATA[Clinical Periodontology and Implant Dentistry, 5th Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/woelfels-dental-anatomy-8th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/woelfels-dental-anatomy-8th-edition/</loc>
 		<lastmod>2015-10-25T19:16:37+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/woelfels-dental-anatomy.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/woelfels-dental-anatomy.jpg</image:loc>
 			<image:caption><![CDATA[Woelfel’s Dental Anatomy 8th Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/chamberlains-symptoms-and-signs-in-clinical-medicine-13th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/chamberlains-symptoms-and-signs-in-clinical-medicine-13th-edition/</loc>
 		<lastmod>2015-10-25T23:49:24+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/Chamberlains-Symptoms-and-Signs-in-Clinical-Medicine-13th-Edition.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/Chamberlains-Symptoms-and-Signs-in-Clinical-Medicine-13th-Edition.jpg</image:loc>
 			<image:caption><![CDATA[Chamberlain]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/langmans-medical-embryology-10th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/langmans-medical-embryology-10th-edition/</loc>
 		<lastmod>2015-10-25T21:19:48+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/Langmans-Medical-Embryology-10th-Edition.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/Langmans-Medical-Embryology-10th-Edition.jpg</image:loc>
 			<image:caption><![CDATA[Langman]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/clinical-examination-a-systematic-guide-to-physical-diagnosis-7th-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/clinical-examination-a-systematic-guide-to-physical-diagnosis-7th-edition/</loc>
 		<lastmod>2015-10-26T00:50:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/41cARbAi-OL._SX373_BO1204203200_.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/41cARbAi-OL._SX373_BO1204203200_.jpg</image:loc>
 			<image:caption><![CDATA[Clinical Examination   A Systematic Guide to Physical Diagnosis 7th Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/dental-terminology-cengage-learning-2nd-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/dental-terminology-cengage-learning-2nd-edition/</loc>
 		<lastmod>2015-10-26T01:13:16+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/dental-terminology2nd.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/dental-terminology2nd.jpg</image:loc>
 			<image:caption><![CDATA[Dental Terminology   Cengage Learning 2nd Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/hartys-dental-dictionary-3rd-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/hartys-dental-dictionary-3rd-edition/</loc>
 		<lastmod>2015-10-26T01:12:36+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/hartys-dental-dic.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/hartys-dental-dic.jpg</image:loc>
 			<image:caption><![CDATA[Harty’s Dental Dictionary 3rd Edition]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://khoanguyen.dev/books/mosbys-dental-dictionary-2nd-edition/</loc>
+		<loc>http://books.khoanguyen.me/books/mosbys-dental-dictionary-2nd-edition/</loc>
 		<lastmod>2015-10-26T01:22:29+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
-			<image:loc>http://khoanguyen.dev/wp-content/uploads/2015/10/9780323049634.jpg</image:loc>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/9780323049634.jpg</image:loc>
 			<image:caption><![CDATA[Mosby]]></image:caption>
 		</image:image>
 	</url>
