@@ -7,12 +7,20 @@
 	</url>
 	<url>
 		<loc>http://books.khoanguyen.me/huong-dan-tai-sach/</loc>
-		<lastmod>2015-10-25T06:09:45+07:00</lastmod>
+		<lastmod>2015-10-27T07:52:36+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 		<image:image>
-			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/tenlua-register-1024x485.jpg</image:loc>
-			<image:caption><![CDATA[tenlua register]]></image:caption>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/ouo1.jpg</image:loc>
+			<image:caption><![CDATA[ouo1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/ouo2.jpg</image:loc>
+			<image:caption><![CDATA[ouo2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/ouo3.jpg</image:loc>
+			<image:caption><![CDATA[ouo3]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -39,6 +47,16 @@
 		<image:image>
 			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/subscribe4.jpg</image:loc>
 			<image:caption><![CDATA[subscribe4]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://books.khoanguyen.me/huong-dan-tai-sach/huong-dan-tai-sach-tai-tenlua-vn/</loc>
+		<lastmod>2015-10-27T07:48:09+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/tenlua-register-1024x485.jpg</image:loc>
+			<image:caption><![CDATA[tenlua register]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
