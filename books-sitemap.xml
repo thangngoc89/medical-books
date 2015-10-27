@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://books.khoanguyen.me/books/</loc>
-		<lastmod>2015-10-27T18:29:34+07:00</lastmod>
+		<lastmod>2015-10-28T01:11:32+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -98,7 +98,7 @@
 	</url>
 	<url>
 		<loc>http://books.khoanguyen.me/books/hartys-dental-dictionary-3rd-edition/</loc>
-		<lastmod>2015-10-26T01:12:36+07:00</lastmod>
+		<lastmod>2015-10-27T23:58:33+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
@@ -118,7 +118,7 @@
 	</url>
 	<url>
 		<loc>http://books.khoanguyen.me/books/grays-anatomy-the-anatomical-basis-of-clinical-practice-41st-edition/</loc>
-		<lastmod>2015-10-27T18:29:34+07:00</lastmod>
+		<lastmod>2015-10-28T00:59:59+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
@@ -128,12 +128,42 @@
 	</url>
 	<url>
 		<loc>http://books.khoanguyen.me/books/dorlands-illustrated-medical-dictionary-32nd-edition/</loc>
-		<lastmod>2015-10-27T07:57:50+07:00</lastmod>
+		<lastmod>2015-10-27T23:17:46+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
 			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/Cover.jpg</image:loc>
 			<image:caption><![CDATA[Dorland]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://books.khoanguyen.me/books/grays-anatomy-for-students-3rd-edition/</loc>
+		<lastmod>2015-10-28T00:37:38+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/51lltmNjqIL._SX387_BO1204203200_.jpg</image:loc>
+			<image:caption><![CDATA[Gray]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://books.khoanguyen.me/books/grays-atlas-of-anatomy-2nd-edition/</loc>
+		<lastmod>2015-10-28T00:12:03+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/51KPg5ZffiL._SX396_BO1204203200_.jpg</image:loc>
+			<image:caption><![CDATA[Gray]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://books.khoanguyen.me/books/the-netter-collection-of-medical-illustrations-cardiovascular-system-volume-8-2e/</loc>
+		<lastmod>2015-10-28T01:11:32+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://books.khoanguyen.me/wp-content/uploads/2015/10/The-Netter-Collection-of-Medical-Illustrations-Cardiovascular-System-Volume-8.jpg</image:loc>
+			<image:caption><![CDATA[The Netter Collection of Medical Illustrations   Cardiovascular System: Volume 8, 2e]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
