@@ -91,6 +91,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
+		<loc>http://books.khoanguyen.me/tag/nhi/</loc>
+		<lastmod>2015-10-29T08:17:32+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>http://books.khoanguyen.me/tag/occlusion/</loc>
 		<lastmod>2015-10-25T19:18:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
