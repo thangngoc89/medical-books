@@ -1,278 +1,284 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//books.khoanguyen.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//khoanguyen.dev/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://books.khoanguyen.me/tag/anatomy/</loc>
+		<loc>http://khoanguyen.dev/tag/anatomy/</loc>
 		<lastmod>2015-11-01T03:26:51+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/android/</loc>
+		<loc>http://khoanguyen.dev/tag/android/</loc>
 		<lastmod>2015-10-31T12:22:21+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/atlas/</loc>
+		<loc>http://khoanguyen.dev/tag/atlas/</loc>
 		<lastmod>2015-11-01T01:36:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/biochemistry/</loc>
+		<loc>http://khoanguyen.dev/tag/biochemistry/</loc>
 		<lastmod>2015-10-25T19:19:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/biology/</loc>
+		<loc>http://khoanguyen.dev/tag/biology/</loc>
 		<lastmod>2015-11-01T03:23:48+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/cardiology/</loc>
+		<loc>http://khoanguyen.dev/tag/cardiology/</loc>
 		<lastmod>2015-11-01T00:54:24+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/cardiovascular/</loc>
+		<loc>http://khoanguyen.dev/tag/cardiovascular/</loc>
 		<lastmod>2015-10-29T20:39:03+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/ceramics/</loc>
+		<loc>http://khoanguyen.dev/tag/ceramics/</loc>
 		<lastmod>2015-10-30T00:17:38+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/clinical/</loc>
+		<loc>http://khoanguyen.dev/tag/clinical/</loc>
 		<lastmod>2015-11-02T08:45:22+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/cohens/</loc>
+		<loc>http://khoanguyen.dev/tag/cohens/</loc>
 		<lastmod>2015-10-29T21:27:34+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/ct/</loc>
+		<loc>http://khoanguyen.dev/tag/ct/</loc>
 		<lastmod>2015-10-30T07:42:35+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/ct-scan/</loc>
+		<loc>http://khoanguyen.dev/tag/ct-scan/</loc>
 		<lastmod>2015-10-30T07:42:35+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/diagnosis/</loc>
+		<loc>http://khoanguyen.dev/tag/diagnosis/</loc>
 		<lastmod>2015-10-26T00:50:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/dictionary/</loc>
+		<loc>http://khoanguyen.dev/tag/dictionary/</loc>
 		<lastmod>2015-10-31T12:22:21+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/embryology/</loc>
+		<loc>http://khoanguyen.dev/tag/embryology/</loc>
 		<lastmod>2015-10-25T21:19:48+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/endocrine/</loc>
+		<loc>http://khoanguyen.dev/tag/endocrine/</loc>
 		<lastmod>2015-10-29T20:05:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/grays/</loc>
+		<loc>http://khoanguyen.dev/tag/grays/</loc>
 		<lastmod>2015-11-01T01:35:53+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/hanbook/</loc>
+		<loc>http://khoanguyen.dev/tag/hanbook/</loc>
 		<lastmod>2015-11-01T03:23:48+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/implant/</loc>
+		<loc>http://khoanguyen.dev/tag/implant/</loc>
 		<lastmod>2015-11-02T08:34:16+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/integumentary/</loc>
+		<loc>http://khoanguyen.dev/tag/integumentary/</loc>
 		<lastmod>2015-10-29T19:36:56+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/ios/</loc>
+		<loc>http://khoanguyen.dev/tag/ios/</loc>
 		<lastmod>2015-10-31T12:22:21+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/limb/</loc>
+		<loc>http://khoanguyen.dev/tag/limb/</loc>
 		<lastmod>2015-10-29T20:32:34+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/materials/</loc>
+		<loc>http://khoanguyen.dev/tag/materials/</loc>
 		<lastmod>2015-10-30T00:17:38+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/molcular/</loc>
+		<loc>http://khoanguyen.dev/tag/microbiology/</loc>
+		<lastmod>2015-11-07T17:27:15+07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://khoanguyen.dev/tag/molcular/</loc>
 		<lastmod>2015-10-25T19:19:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/musculoskeletal/</loc>
+		<loc>http://khoanguyen.dev/tag/musculoskeletal/</loc>
 		<lastmod>2015-10-29T20:32:34+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/nervous/</loc>
+		<loc>http://khoanguyen.dev/tag/nervous/</loc>
 		<lastmod>2015-11-01T01:36:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/netter/</loc>
+		<loc>http://khoanguyen.dev/tag/netter/</loc>
 		<lastmod>2015-11-01T01:36:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/netter-green-book-collection/</loc>
+		<loc>http://khoanguyen.dev/tag/netter-green-book-collection/</loc>
 		<lastmod>2015-11-01T01:36:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/nhi/</loc>
+		<loc>http://khoanguyen.dev/tag/nhi/</loc>
 		<lastmod>2015-10-29T08:17:32+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/occlusion/</loc>
+		<loc>http://khoanguyen.dev/tag/occlusion/</loc>
 		<lastmod>2015-10-25T19:18:09+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/parasitology/</loc>
+		<loc>http://khoanguyen.dev/tag/parasitology/</loc>
 		<lastmod>2015-11-07T16:47:24+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/pathway/</loc>
+		<loc>http://khoanguyen.dev/tag/pathway/</loc>
 		<lastmod>2015-10-29T21:27:34+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/physiology/</loc>
+		<loc>http://khoanguyen.dev/tag/physiology/</loc>
 		<lastmod>2015-11-02T08:14:27+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/principle/</loc>
+		<loc>http://khoanguyen.dev/tag/principle/</loc>
 		<lastmod>2015-10-25T19:19:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/pulp/</loc>
+		<loc>http://khoanguyen.dev/tag/pulp/</loc>
 		<lastmod>2015-10-29T21:27:34+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/reproductive/</loc>
+		<loc>http://khoanguyen.dev/tag/reproductive/</loc>
 		<lastmod>2015-10-29T20:06:40+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/respiratory/</loc>
+		<loc>http://khoanguyen.dev/tag/respiratory/</loc>
 		<lastmod>2015-10-29T20:05:20+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/scan/</loc>
+		<loc>http://khoanguyen.dev/tag/scan/</loc>
 		<lastmod>2015-10-30T07:42:35+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/sign/</loc>
+		<loc>http://khoanguyen.dev/tag/sign/</loc>
 		<lastmod>2015-10-25T23:49:24+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/software/</loc>
+		<loc>http://khoanguyen.dev/tag/software/</loc>
 		<lastmod>2015-10-29T19:30:42+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/symtom/</loc>
+		<loc>http://khoanguyen.dev/tag/symtom/</loc>
 		<lastmod>2015-10-25T23:49:24+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/technique/</loc>
+		<loc>http://khoanguyen.dev/tag/technique/</loc>
 		<lastmod>2015-10-25T19:19:23+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/terminology/</loc>
+		<loc>http://khoanguyen.dev/tag/terminology/</loc>
 		<lastmod>2015-10-26T01:13:16+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/undergraduate/</loc>
+		<loc>http://khoanguyen.dev/tag/undergraduate/</loc>
 		<lastmod>2015-11-01T01:30:04+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://books.khoanguyen.me/tag/urinary/</loc>
+		<loc>http://khoanguyen.dev/tag/urinary/</loc>
 		<lastmod>2015-10-29T19:36:43+07:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
-<!-- Dynamic page generated in 0.646 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-11-07 16:50:28 -->
+<!-- Dynamic page generated in 0.515 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-11-07 17:45:11 -->
 
 <!-- super cache -->
